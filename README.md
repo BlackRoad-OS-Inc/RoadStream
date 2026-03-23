@@ -1,3 +1,11 @@
+# RoadStream
+
+> RoadStream — Sovereign media server. Fork of Jellyfin. Self-hosted streaming on Pi fleet. Proprietary BlackRoad OS.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 # RoadStream — Sovereign Media Server
 
 > Forked from [Jellyfin](https://github.com/jellyfin/jellyfin). Self-hosted streaming on your Pi fleet.
